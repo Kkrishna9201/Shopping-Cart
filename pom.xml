@@ -122,7 +122,7 @@
        <repository>
 	   <id>Central</id>
 	   <name>Central</name>
-	   <url>https://repo1.maven.org/maven2/</url>
+	   <url>https://repo.maven.org/maven2/</url>
 	   <layout>default</layout>
       </repository>   
     </repositories>
@@ -131,7 +131,7 @@
        <pluginRepository>
 	   <id>Central</id>
 	   <name>Central</name>
-	   <url>https://repo1.maven.org/maven2/</url>
+	   <url>https://repo.maven.org/maven2/</url>
 	   <layout>default</layout>
       </pluginRepository>   
     </pluginRepositories>
